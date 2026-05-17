@@ -1,0 +1,30 @@
+filename = 'ae2buddycards-1.0.0.jar'
+name = 'AE2 Buddycards'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'b10ce2d734c9de62d2033ced29177d78a1ae03ea3162d23f231b2c2aa936318d7a155f370e81341c7624c00995d75a13f1a08788d81ba320dfe983e69c3bbb44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BblnrfAp/versions/vcsiQSbU/ae2buddycards-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'BblnrfAp'
+version = 'vcsiQSbU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GGGjHC5t'
+type = 'REQUIRED'
+version = 'Ce6yhhOU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XxWD5pD3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'

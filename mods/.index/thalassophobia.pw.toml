@@ -1,0 +1,18 @@
+filename = 'Thalassophobia-forge-1.20.1-1.7.2.jar'
+name = 'Thalassophobia'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Thalassophobia-forge-1.20.1-1.7.2.jar'
+
+[download]
+hash = 'bf1b70ae4de15def5f7e47f6f992e4f5272e26a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7434778
+project-id = 1126335

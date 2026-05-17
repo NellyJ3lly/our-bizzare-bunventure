@@ -1,0 +1,89 @@
+filename = 'farmers_croptopia-1.20.1-3.2.1.jar'
+name = "Farmer's (Delight) Croptopia"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-3.2.1'
+
+[download]
+hash = 'c60e5d7f46ad0c0ac2f54f8a166e09dc80449e5449fa5881f748c4b0c1d1663ffe53650cbec13592c7b36db5a32fcf34acf0e805e6726c1206363e56553c223e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nyIn6Lmk/versions/Xo88YLqa/farmers_croptopia-1.20.1-3.2.1.jar'
+
+[update.modrinth]
+mod-id = 'nyIn6Lmk'
+version = 'Xo88YLqa'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'zYuGPZIx'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DGiq4ZSW'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'O53VhQoZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'foa4fGIH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2uEhdGKt'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'znHQQtuU'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hIu9KJTT'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'g6sbyCTu'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gBGdVBJy'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qMxbM4BQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JtSnhtNJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'emQ94xri'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T7XZLHGD'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Vv0RM7WN'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'O1qboAbB'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '70AHjgqV'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'YttyNOFA'
+type = 'OPTIONAL'
