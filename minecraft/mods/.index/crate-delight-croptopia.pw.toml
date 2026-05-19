@@ -1,0 +1,21 @@
+filename = 'cratedelightcroptopia-24.12.27-1.20-forge.jar'
+name = 'Crate Delight: Croptopia'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '24.12.27-1.20-forge'
+
+[download]
+hash = '399e15c208df0ff76f030c55504c9161a5f10b996fc99bd1bea8add6f12dff7b27f307886a4ce798477b05dc00003cb62c86d281d758b08bcba9c7185b7e8f93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W6Xlp26Z/versions/5ACt39sC/cratedelightcroptopia-24.12.27-1.20-forge.jar'
+
+[update.modrinth]
+mod-id = 'W6Xlp26Z'
+version = '5ACt39sC'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9rlXSyLg'
+type = 'REQUIRED'

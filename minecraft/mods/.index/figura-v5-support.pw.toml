@@ -1,0 +1,21 @@
+filename = 'figurav5addon-forge-1.2.2+split1.jar'
+name = 'Figura v5 support'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.19.3', '1.19.4', '1.20.1', '1.20.2', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.2+split1'
+
+[download]
+hash = '224daecb298cc0c84c89c30eb9925874bc6b479479ef7f277cabf69a7d94f90d308550fcc1c5c245638730f61f3062cf8b03193445cd23160ab7c169df069f45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dDOISgs4/versions/xANxkEw4/figurav5addon-forge-1.2.2%2Bsplit1.jar'
+
+[update.modrinth]
+mod-id = 'dDOISgs4'
+version = 'xANxkEw4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 's9gIPDom'
+type = 'REQUIRED'
