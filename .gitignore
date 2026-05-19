@@ -18,3 +18,8 @@ mmc-pack.json
 /minecraft/moddata
 /minecraft/cache
 minecraft/usercache.json
+/minecraft/.probe
+minecraft/mods/probejs-7.0.0-forge.jar
+/minecraft/.mixin.out
+/minecraft/.vscode
+/minecraft/.mixin.out
