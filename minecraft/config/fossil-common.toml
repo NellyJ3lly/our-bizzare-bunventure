@@ -41,7 +41,7 @@ version = 1
 	#True if Dinosaurs can be healed by hand feeding it food
 	healingDinos = true
 	#True if Dinosaurs have hunger
-	enableHunger = true
+	enableHunger = false
 	#True if Dinosaurs can die of hunger
 	enableStarvation = false
 	#True if Dinosaurs should breed
@@ -57,20 +57,20 @@ version = 1
 	#Range: 1 ~ 1000000000
 	pregnancyDuration = 10000
 	#True if certain Dinosaurs can break blocks weaker than the set hardness
-	dinosBreakBlocks = true
+	dinosBreakBlocks = false
 	#Minimum hardness that a block needs in order not to break. The default is iron(5). A value of 0.4 would be enough to break leaves and glass but not dirt
 	#Range: 0.0 ~ 100.0
 	blockBreakHardness = 5.0
 	#True if herbivores can eat plant blocks
-	dinosEatBlocks = true
+	dinosEatBlocks = false
 	#True if Dinosaurs can eat non-vanilla mobs
 	dinosEatModdedMobs = true
 	#True if vanilla animals should run away from dangerous Dinosaurs
 	animalsFearDinos = true
 	#True if Anu should be able to place blocks
-	anuBlockPlacing = true
+	anuBlockPlacing = false
 	#True if the Anubite should be able to spawn again after some time
-	anubiteHasCooldown = false
+	anubiteHasCooldown = true
 	#How long it takes for the Anubite to respawn, in ticks
 	#Range: 1200 ~ 1000000000
 	anubiteCooldown = 72000
